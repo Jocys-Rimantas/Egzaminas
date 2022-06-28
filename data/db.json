@@ -1,0 +1,26 @@
+{
+  "book": [
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "geners": "Sienice fiction",
+      "year": "1949",
+      "id": 1
+    },
+  
+    {
+      "title": "All Quiet on the Western Front",
+      "author": "Erich Maria Remarque",
+      "geners": "Novel",
+      "year": "1928",
+      "id": 2
+    },
+    {
+      "title": "Tyrannical mind",
+      "author": "Dean Allen Haycock",
+      "geners": "Psychological",
+      "year": "2019",
+      "id": 3
+    }
+  ]
+}
