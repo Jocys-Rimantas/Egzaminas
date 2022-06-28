@@ -8,4 +8,4 @@ Buvo šiek tiek parašyta backend'e.
 
 Sujungti fronto ir backo nepavyko. 
 
-Vertinčiau savo darbą tarp 4.
+Vertinčiau savo darbą 4.
